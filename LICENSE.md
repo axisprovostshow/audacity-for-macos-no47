@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with custom Audacity for macOS Filter | lower-thirds + real-time-effects, the #1 filter. Includes lower-thirds and real-time-effects for a smoother and
 
 
 
